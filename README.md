@@ -55,6 +55,11 @@ An end-to-end data analytics project analyzing transactional retail data to unco
 ## Dashboard
 🔗 [View Interactive Looker Studio Dashboard](https://datastudio.google.com/reporting/c6cfc27a-185c-431b-9c2f-1e89b2e3045d)
 
+## Notebook
+🔗 [View Python Notebook on Google Colab](https://colab.research.google.com/drive/1-c17rIzwNtYmCXxleEyiXG5Zgiqs5hHr?usp=sharing)
+
+
+
 ## Strategic Recommendations
 - Discontinue or reprice **Tables and Bookcases**
 - Cap all discounts at **maximum 20%**
